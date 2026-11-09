@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+input/
+output/
+work_data/
+*.xlsx
+*.xlsm
+*.xls
+*.parquet
+*.duckdb*
+*.sqlite*
+*.log
+# Public GIS extracts can have separate licensing/retention restrictions.
+data/*
+!data/.gitkeep
