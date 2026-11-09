@@ -1,5 +1,8 @@
 # Windows 실행 순서
 
+스마트 앱 컨트롤 때문에 배치 파일이 차단되면 [PowerShell 직접 설치·실행](POWERSHELL_실행순서.md)을 사용하세요. 보호 기능과 실행 정책을 변경하지 않습니다.
+
+
 명령 프롬프트(CMD)에서 실행합니다. Python 3.12 64비트가 필요합니다.
 GitHub에서 Code → Download ZIP으로 받은 뒤 전체를 압축 해제하고,
 install.bat이 보이는 폴더에서 주소창에 cmd를 입력해 터미널을 여세요.

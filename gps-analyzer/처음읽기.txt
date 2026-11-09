@@ -24,3 +24,7 @@ verify_vworld.bat으로 먼저 확인하세요. 자세한 설정은 README.md에
 sample_reports 폴더에는 실제 하루 샘플 분석 보고서가 들어 있습니다.
 프로그램의 Windows 실기 실행과 실제 API 연결은 아직 검증하지 않았습니다.
 원본 GPS 파일과 실제 인증키는 이 압축에 포함되어 있지 않습니다.
+
+배치 파일이 스마트 앱 컨트롤에 차단되면:
+POWERSHELL_실행순서.md 또는 README.md의 PowerShell 직접 설치·실행 절차를 따르세요.
+Windows 보호 기능과 실행 정책은 변경하지 않습니다.
